@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text type="question">
+<question value="It it highly logical?"/>
+	<text type="question">
+	<question value="Does it deal with the Earth in general?"/>
+		
+		<text type="question">
+		<question value="How about things on the Earth's surface??"/>
+			<text type="question">
+			<question value="Do you have to look into living organic cells?"/>
+				<text type="answer">
+					<answer value="Biology!"/>
+				</text>
+				<text type="answer">
+					<answer value="Chemistry!"/>
+				</text>
+			</text>
+			<text type="question">
+			<question value="Do you study about things above the Earth?"/>
+				<text type="answer">
+					<answer value="Astronomy!"/>
+				</text>
+				<text type="answer">
+					<answer value="Marine Science!"/>
+				</text>
+			</text>
+		</text>	
+		
+		<text type="question">
+		<question value="Do you need to be good at Math?"/>
+			<text type="question">
+			<question value="Is it FUN?"/>
+				<text type="answer">
+					<answer value="Computer Science!"/>
+				</text>
+				<text type="answer">
+					<answer value="Mathematics!"/>
+				</text>
+			</text>
+			<text type="question">
+			<question value="Do you have to work with a lot of people?"/>
+				<text type="answer">
+					<answer value="Business!"/>
+				</text>
+				<text type="answer">
+					<answer value="Economics!"/>
+				</text>
+			</text>
+		</text>	
+	</text>
+	
+	<text type="question">
+	<question value="Is it related to the Arts?"/>
+		
+		<text type="question">
+		<question value="Does it require a lot of physcial activity?"/>
+			<text type="question">
+			<question value="Do you need to be another person?"/>
+				<text type="answer">
+					<answer value="Acting!"/>
+				</text>
+				<text type="answer">
+					<answer value="Dancing!"/>
+				</text>
+			</text>
+			<text type="question">
+			<question value="Does it require a lot of writing?" />
+				<text type="answer">
+					<answer value="Journalism!"/>
+				</text>
+				<text type="answer">
+					<answer value="Drawing!"/>
+				</text>
+			</text>
+		</text>	
+		
+		<text type="question">
+		<question value="Does it deal with humans's wellness?"/>
+			<text type="question">
+			<question value="Does it relate to human's emotions"/>
+				<text type="answer">
+					<answer value="Psychology!"/>
+				</text>
+				<text type="answer">
+					<answer value="Education!"/>
+				</text>
+			</text>
+			<text type="question">
+			<question value="Does it consider time an important factor of life?"/>
+				<text type="answer">
+					<answer value="History!"/>
+				</text>
+				<text type="answer">
+					<answer value="Philosophy!"/>
+				</text>
+			</text>
+		</text>	
+	</text>
+</text>
